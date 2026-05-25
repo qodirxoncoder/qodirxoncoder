@@ -48,7 +48,7 @@ Python, Django va Telegram Bot da ishlayman. Open-source loyihalarga hissa qo'sh
 
 ![Snake animation](https://raw.githubusercontent.com/qodirxoncoder/qodirxoncoder/output/github-contribution-grid-snake-dark.svg)
 
-> **Note:** Snake animatsiyasi uchun GitHub Actions workflow kerak — README'dagi izohga qarang.
+
 
 ---
 
