@@ -44,16 +44,3 @@ Python, Django va Telegram Bot da ishlayman. Open-source loyihalarga hissa qo'sh
 
 ---
 
-## 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/qodirxoncoder/qodirxoncoder/output/github-contribution-grid-snake-dark.svg)
-
-
-
----
-
-<div align="center">
-
-*Behind the screen, beyond the code.*
-
-</div>
