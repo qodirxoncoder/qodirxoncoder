@@ -1,8 +1,8 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00fff9,100:ff00ff&height=220&section=header&text=QODIRXON&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%97%88%20Python%20Developer%20%E2%97%88%20Data%20Scientist&descAlignY=58&descAlign=50)
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00FFF9&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Python+Developer;Data+Scientist;Open+Source+Contributor" alt="Typing SVG" />
-
-<h1>⚡ Qodirxon</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00FFF9&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Neural+Network+Builder;Python+Developer;Data+Scientist;Open+Source+Contributor)
 
 <img src="https://komarev.com/ghpvc/?username=qodirxoncoder&color=00fff9&style=for-the-badge&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/qodirxoncoder?style=for-the-badge&color=ff00ff&labelColor=020812&label=FOLLOWERS" />
@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
@@ -63,6 +65,4 @@
 
 ---
 
-<p align="center">
-  <b>// SYSTEM ONLINE ◈ AI CORE ACTIVE ◈ @qodirxoncoder</b>
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00fff9&height=120&section=footer)
