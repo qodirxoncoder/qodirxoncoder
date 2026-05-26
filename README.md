@@ -15,10 +15,7 @@
 
 | | |
 |---|---|
-| 👤 **Ism** | Qodirxon |
-| 💼 **Rol** | AI / ML Engineer |
-| 📍 **Joylashuv** | Samarqand, O'zbekiston |
-| 🔭 **Hozir** | Deep Learning modellari |
+|
 | 🎯 **Missiya** | AI orqali dunyoni o'zgartirish |
 | 📬 **Email** | qodirxo4@gmail.com |
 
