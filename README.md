@@ -1,10 +1,8 @@
-<div align="center">
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1000&color=00FFF9&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;AI+Systems+Builder;Python+Developer;Data+Scientist)
 
-# ⚡ Qodirxon
+<h1 align="center">⚡ Qodirxon</h1>
 
-<pre>
+```python
 class Qodirxon:
     def __init__(self):
         self.name     = "Qodirxon"
@@ -15,7 +13,9 @@ class Qodirxon:
 
     def current_work(self):
         return "Deep Learning modellari"
-</pre>
+```
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=qodirxoncoder&color=00fff9&style=for-the-badge&label=NEURAL+HITS)
 ![GitHub followers](https://img.shields.io/github/followers/qodirxoncoder?style=for-the-badge&color=ff00ff&labelColor=020812&label=FOLLOWERS)
