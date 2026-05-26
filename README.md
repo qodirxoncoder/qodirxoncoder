@@ -1,38 +1,26 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00FFF9&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Python+Developer;Data+Scientist;Open+Source+Contributor)
+<div align="center">
 
-<h1 align="center">⚡ Qodirxon</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00FFF9&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Python+Developer;Data+Scientist;Open+Source+Contributor" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qodirxoncoder&color=00fff9&style=for-the-badge&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/qodirxoncoder?style=for-the-badge&color=ff00ff&labelColor=020812&label=FOLLOWERS"/>
-</p>
+<h1>⚡ Qodirxon</h1>
 
----
+<img src="https://komarev.com/ghpvc/?username=qodirxoncoder&color=00fff9&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/qodirxoncoder?style=for-the-badge&color=ff00ff&labelColor=020812&label=FOLLOWERS" />
 
-```python
-class Qodirxon:
-    def __init__(self):
-        self.name     = "Qodirxon"
-        self.role     = "AI / ML Engineer"
-        self.location = "Samarqand, O'zbekiston"
-        self.stack    = ["Python", "PyTorch", "Pandas", "NumPy", "FastAPI"]
-        self.mission  = "AI orqali dunyoni o'zgartirish"
-
-    def current_work(self):
-        return "Deep Learning modellari"
-```
+</div>
 
 ---
 
 ## 🧠 About Me
 
-> Python & AI/ML Engineer. Ma'lumotlar orqali dunyoni o'zgartiraman.
-> Neural networklar, Data Science va Open-source loyihalarga qiziqaman.
-
-- 📍 **Samarqand, O'zbekiston**
-- 🔭 Hozir: **Deep Learning modellari** ustida ishlayapman
-- 💡 Qiziqishlar: **Deep Learning · Data Science · Open Source**
-- 📬 **qodirxo4@gmail.com**
+| | |
+|---|---|
+| 👤 **Ism** | Qodirxon |
+| 💼 **Rol** | AI / ML Engineer |
+| 📍 **Joylashuv** | Samarqand, O'zbekiston |
+| 🔭 **Hozir** | Deep Learning modellari |
+| 🎯 **Missiya** | AI orqali dunyoni o'zgartirish |
+| 📬 **Email** | qodirxo4@gmail.com |
 
 ---
 
@@ -76,5 +64,5 @@ class Qodirxon:
 ---
 
 <p align="center">
-  <code>// SYSTEM ONLINE ◈ AI CORE ACTIVE ◈ @qodirxoncoder</code>
+  <b>// SYSTEM ONLINE ◈ AI CORE ACTIVE ◈ @qodirxoncoder</b>
 </p>
