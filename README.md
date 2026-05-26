@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- Neural typing animation -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1000&color=00FFF9&center=true&vCenter=true&width=500&lines=AI%20%2F%20ML%20Engineer%3BAI%2BSystems%2BBuilder%3BPython%2BDeveloper%3BData%2BScientist%3BOpen%2BSource)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1000&color=00FFF9&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;AI+Systems+Builder;Python+Developer;Data+Scientist)
 
 # ⚡ Qodirxon
 
-```python
+<pre>
 class Qodirxon:
     def __init__(self):
         self.name     = "Qodirxon"
@@ -16,7 +15,7 @@ class Qodirxon:
 
     def current_work(self):
         return "Deep Learning modellari"
-```
+</pre>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=qodirxoncoder&color=00fff9&style=for-the-badge&label=NEURAL+HITS)
 ![GitHub followers](https://img.shields.io/github/followers/qodirxoncoder?style=for-the-badge&color=ff00ff&labelColor=020812&label=FOLLOWERS)
